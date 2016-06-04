@@ -1,0 +1,1 @@
+This project is unfinished. We have yet to implement the “cd”, “mkdir” command in our FAT image (fat.ima)
